@@ -3,6 +3,7 @@
 
 # In[42]:
 
+#Detecting Color red,blue,light blue,yellow
 
 #importing cv2 module for computer visison 
 import cv2
